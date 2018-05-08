@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<title>Tecno PC</title>
+		<meta charset="utf-8">
+		<meta name="description" content="Sitio web sobre las novedades en el mundo de la tecnología">
+		<meta name="keywords" content="tecnologia, pc, ordenadores, moviles, smartphones, actualidad, mac, apple, iphone, android, windows, linux,">
+		<meta property="og:site_name" content="Novedades de tecnología">
+		<meta property="og:url" content="https://news.html">
+		<meta property="og:title" content="Novedades de tecnología">
+		<meta property="og:image" content="img/reconocimiento_facial_facebook.jpg">
+		<meta property="og:description" content="Sitio web sobre las novedades en el mundo de la tecnología">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="alternate" type="application/rss+xml" title="rss" href="xml/rss.xml">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+		<link rel="stylesheet" media="screen and (min-width: 1200px)" href="css/d.css">
+		<link rel="stylesheet" media="screen and (max-width: 1199px)" href="css/m.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="js/news.js"></script>
+	</head>
+	<body>
+		 <!--Carousel empieza-->
+		<div class="jumbotron text-center">
+  			<div class="container">
+  		 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+	    			<ol class="carousel-indicators">
+				      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+				      <li data-target="#myCarousel" data-slide-to="1"></li>
+				      <li data-target="#myCarousel" data-slide-to="2"></li>
+				    </ol>
+				    <div class="carousel-inner">
+				    <!--IMAGEN 1-->  
+					<div class="item active">
+				       <a href="news1.html">
+						   <img src="img/reconocimiento_facial_facebook.jpg" alt="Mallorca" style="width:100%;">
+						  </a>
+				      </div>
+					<!--IMAGEN 2-->
+				      <div class="item">
+				        <a href="news2.html"> 
+							<img src="img/oracle.jpg" alt="Parlament" style="width:100%;">
+						  </a>
+				      </div>
+					<!--IMAGEN 3-->
+				      <div class="item">
+				        <a href="news3.html">
+						  <img src="img/whatsapp.jpg" alt="Airbnb" style="width:100%;">
+						  </a>
+				      </div>
+				    </div>
+				    <!--Controles a derecha e izquierda-->
+				    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+				    	<span class="glyphicon glyphicon-chevron-left"></span>
+				    </a>
+				    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+				    	<span class="glyphicon glyphicon-chevron-right"></span>
+				    </a>
+				</div>
+			</div>
+			<div class="fondo-cabecera">
+			<h1>TECNO PC: Tecnología al día</h1>
+  			<h2>Las noticias siempre al día</h2>
+			</div>
+		</div>
+		<div class="publicidad-movil">
+			<img class="pimgmovil" src="img/publicidad-movil.jpg" alt="Publicidad">
+		</div>
+		<main class="principal">
+			<div class="container">	
+			  <section class="noticias">
+				<aside class="publicidad">
+  					<img id="imgpubli" src="img/publicidad.jpg" class="img-responsive" alt="publicidad">
+				</aside>
+				<a href="xml/rss.xml">
+					<img src="https://www.w3schools.com/xml/pic_rss.gif" width="36" height="14" alt="rss">
+				</a>
+				<br>
+				<div class="row">
+					<div class="col-sm-3 noticia">
+						<br>
+						<h3 class="titulo">Facebook quiere usar tecnología de reconocimiento facial en Europa</h3>
+		<a href="news1.html">
+			<img class="img-thumbnail" src="img/reconocimiento_facial_facebook_thumbnail.jpg" alt="Reconocimiento facial">
+		</a>
+		<h4 class="fecha">18 abril 2018 17:46</h4>
+			<a href="news1.html" class="btn btn-success" role="button">Leer más...</a>
+					</div>
+						<div class="col-sm-3 noticia"><br>
+							<h3 class="titulo">WhatsApp almacena tus fotos y vídeos aunque los hayas borrado</h3>
+							<a href="news2.html">
+								<img class="img-thumbnail" src="img/whatsapp_thumbnail.jpg" alt="Whatsapp">
+							</a>
+							<h4 class="fecha">17 abril 2018 10:59</h4>
+							<a href="news2.html" class="btn btn-success" role="button">Leer más...</a>
+						</div>
+						<div class="col-sm-3 noticia"><br>
+							<h3 class="titulo">Oracle propone una tecnología basada en Machine Learning para mejorar la seguridad digital</h3>
+							<a href="news3.html">
+								<img class="img-thumbnail" src="img/oracle_thumbnail.jpg" alt="Oracle Seguridad Digital">
+							</a>
+							<h4 class="fecha">15 abril 2018 11:47</h4>
+							<a href="news3.html" class="btn btn-success" role="button">Leer más...</a>
+						</div>
+					</div>
+					<div id="noticiasjson" class="margin-json">
+					</div>
+				</section>
+			</div>
+		</main>
+		<div class="seemore">
+			<button class="btn btn-success" id="vermas">Más noticias</button>
+		</div>
+		<br>
+		<footer class="footer"> 
+    		<div class="container"> 
+        		<ul class="footer-links"> 
+		        	<li>
+		        		<a href="https://www.facebook.com/Tecno-PC-191427251488657" class="btn btn-primary btn-lg">
+							<span class="glyphicon glyphicon-user"></span> Facebook
+						</a>
+					</li> 
+		        	<li>
+		    	        <a href="mailto:thehittos@gmail.com" class="btn btn-warning btn-lg">
+          					<span class="glyphicon glyphicon-envelope"></span> E-mail 
+        				</a>
+		        	</li> 
+        		</ul> 
+	        	<p>&copy;TECNO PC 2018 Todos los derechos reservados</p>
+    		</div>
+		</footer>
+	</body>
+</html>
