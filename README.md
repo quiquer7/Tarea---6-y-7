@@ -5,7 +5,9 @@ He realizado este sitio web con las librerías jQuery y Bootstrap.
 https://rawgit.com/quiquer7/Tarea---6-y-7/master/Bocetos%20del%20sitio%20web/newshtml.jpg
 
 ### Boceto de la página de noticia (news1.html, news2.html, news3.html)
+https://rawgit.com/quiquer7/Tarea---6-y-7/master/Bocetos%20del%20sitio%20web/news1-2-3html.jpg
 
+Los bocetos son muy simples, pero expresan correctamente la idea de diseño final.
 
 La página principal carga 3 noticias. Si hacemos scroll, aparecen nuevas noticias de 3 en 3 gracias a los documentos newsjs2.json y newsjs3.json.
 
