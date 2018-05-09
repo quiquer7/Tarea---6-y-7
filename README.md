@@ -52,9 +52,10 @@ https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6
 https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews1.html
 
 #### news2.html
+https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews2.html
 
 #### news3.html
-
+https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews3.html
 
 ### Validación CSS
 #### d.css
