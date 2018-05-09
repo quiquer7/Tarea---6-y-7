@@ -46,7 +46,7 @@ h1, h2, h3 {
 	 border-top:solid 5px black;
 	}
 main {
-    max-width: 600 px;
+    max-width: 100%;
     margin: auto;
 	}
 .seemore{
@@ -74,8 +74,8 @@ aside.publicidad-noticia{
 	}
 .btn-success{
 	border: solid 2px black !important;
-	margin-left: 35px; !important;
-	margin-right: 35px; !important;
+	margin-left: 35px !important;
+	margin-right: 35px !important;
 	}
 .noticias{
   	width: 100%;
