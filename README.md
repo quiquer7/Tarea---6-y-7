@@ -33,11 +33,20 @@ Todas las páginas html contienen las etiquetas meta necesarias.
 He probado la correcta visualización y funcionamiento del sitio en dos de los principales navegadores, Chrome y Firefox, tanto para PC como para dispositivos móviles.
 
 En Chrome he tenido que instalar la extensión Suscripción a RSS para que se visualizaran los estilos css, ya que en mi ordenador se veía como texto plano sin esa extensión.
+La publicidad no aparece en Chrome, cuando se carga el sitio web con RawGit. He probado con Firefox y con este si que aparece, incluso en Edge o en Opera aparece.
+Utilizo Dreamweaver y Xampp para desarrollar los proyectos, y en la previsualización de la página en tiempo real, en Chrome si que aparece la publicidad, solo me pasa esto con RawGit.
+
+Todas las imagenes están retocadas y comprimidas con Photoshop CC 2018.
+
 
 ## Validaciones del código
+
 ### Validación HTML
+#### news.html
+https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews.html
 
 ### Validación CSS
+
 
 ### Validación XML
 
