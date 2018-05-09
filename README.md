@@ -64,6 +64,10 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2Fqui
 https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fcss%2Fm.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es
 
 ### Validación XML
+#### rss.xml
+https://www.xmlvalidation.com/index.php?id=1&L=0
+
+(El enlace es al validador de XML, pero he comprobado que no tiene errores de sintaxis)
 
 
 ### Validación JSON
