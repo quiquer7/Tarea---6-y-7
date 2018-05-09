@@ -67,10 +67,13 @@ https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2Fqui
 #### rss.xml
 https://www.xmlvalidation.com/index.php?id=1&L=0
 
-(El enlace es al validador de XML, pero he comprobado que no tiene errores de sintaxis)
+(El enlace es al validador de XML, pero he comprobado que no tiene errores de sintaxis).
 
 
 ### Validación JSON
+https://jsonlint.com/
+
+(El enlace es al validador de JSON, pero he comprobado que los dos archivos .json no tienen errores de sintaxis).
 
 ### Validación JS
 Código Javascript probado y funcionando al 100%.
