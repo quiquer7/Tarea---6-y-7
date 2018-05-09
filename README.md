@@ -1,4 +1,7 @@
 # Sitio web de noticias de tecnología con scroll
+
+https://rawgit.com/quiquer7/Tarea---6-y-7/master/news.html
+
 He realizado este sitio web con las librerías jQuery y Bootstrap.
 
 ### Boceto de la página principal news.html
@@ -45,10 +48,23 @@ Todas las imagenes están retocadas y comprimidas con Photoshop CC 2018.
 #### news.html
 https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews.html
 
-### Validación CSS
+#### news1.html
+https://validator.w3.org/nu/?doc=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fnews1.html
 
+#### news2.html
+
+#### news3.html
+
+
+### Validación CSS
+#### d.css
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fcss%2Fd.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es
+
+#### m.css
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frawgit.com%2Fquiquer7%2FTarea---6-y-7%2Fmaster%2Fcss%2Fm.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es
 
 ### Validación XML
+
 
 ### Validación JSON
 
