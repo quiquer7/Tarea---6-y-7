@@ -29,3 +29,16 @@ Todas las páginas html contienen las etiquetas meta necesarias.
 He probado la correcta visualización y funcionamiento del sitio en dos de los principales navegadores, Chrome y Firefox, tanto para PC como para dispositivos móviles.
 
 En Chrome he tenido que instalar la extensión Suscripción a RSS para que se visualizaran los estilos css, ya que en mi ordenador se veía como texto plano sin esa extensión.
+
+## Validaciones del código
+### Validación HTML
+
+### Validación CSS
+
+### Validación XML
+
+### Validación JSON
+
+### Validación JS
+Código Javascript probado y funcionando al 100%.
+
