@@ -1,4 +1,4 @@
-﻿body {
+body {
 		background-color: #01AAC1
 		}
 
@@ -91,6 +91,7 @@ h1, h2, h3 {
 		}
 .maxsize {
 		max-width: 50%;
+		max-height: 25%;
 		}
 .footer{
   		padding:50px 0 50px;
