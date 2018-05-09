@@ -17,3 +17,4 @@ También hay un mensaje de Copyright y un botón para visualizar el RSS del siti
 Las noticias de news1.html, news2.html, news3.html, contienen una imagen, el cuerpo de la noticia y un vídeo, así como otros extras como el autor o la fecha.
 Todas las páginas html contienen las etiquetas meta necesarias.
 He probado la correcta visualización y funcionamiento del sitio en dos de los principales navegadores, Chrome y Firefox, tanto para PC como para dispositivos móviles.
+En Chrome he tenido que instalar la extensión Suscripción a RSS para que se visualizaran los estilos css, ya que en mi ordenador se veía como texto plano sin esa extensión.
