@@ -18,6 +18,9 @@ h1, h2, h3 {
 .publicidad-movil-noticia {
 	display: none;
 	}
+.text-muted {
+	text-align: center;
+	}
 .carousel{
 	width: 600px;
 	height: 330px;
@@ -41,7 +44,10 @@ h1, h2, h3 {
 	}
 .fecha-autor {
 	color: #000000;
-	text-align: center;
+	}
+iframe {
+	width: 480px;
+	height:360px;
 	}
 .borde-noticia {
 	 border-top:solid 5px black;
@@ -69,10 +75,6 @@ aside.publicidad-noticia{
   	width: 336px;
   	height: 100%;
 	margin: 10px;
-	}
-videogrande {
-	width: 480px;
-  	height: 360px;
 	}
 .margin-json {
 	margin-top: -100px;
