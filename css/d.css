@@ -41,6 +41,7 @@ h1, h2, h3 {
 	}
 .fecha-autor {
 	color: #000000;
+	text-align: center;
 	}
 .borde-noticia {
 	 border-top:solid 5px black;
